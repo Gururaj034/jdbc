@@ -26,6 +26,8 @@ public class DataBase_Connection
 		System.out.println("the user name is  "+username);
 		System.out.println("the password is   "+password);
 		
+		System.out.println("ningidu bekittaaa magane");
+		
 	
 	}
 
